@@ -177,6 +177,6 @@ Module['FS_createPath']('/LD35_FallingShapes/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 162, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 162, "crunched": 0, "end": 311, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 311, "crunched": 0, "end": 19363367, "filename": "/LD35_FallingShapes/Content/Paks/LD35_FallingShapes-HTML5.pak"}], "remote_package_size": 19363367, "package_uuid": "86273046-392e-4e86-8852-a27987b0b413"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 162, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 162, "crunched": 0, "end": 311, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 311, "crunched": 0, "end": 19380565, "filename": "/LD35_FallingShapes/Content/Paks/LD35_FallingShapes-HTML5.pak"}], "remote_package_size": 19380565, "package_uuid": "6e7f24a6-e64b-4a2b-8430-1c80b3ec6454"});
 
 })();
